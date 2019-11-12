@@ -5,3 +5,6 @@ Solved Absolute Values Sum Minimization :D
 
 ## DAY 02:
 Solved sum on n arguments :D
+
+## DAY 03:
+Solved matrix border/frame :D
