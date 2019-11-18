@@ -11,3 +11,7 @@ Solved matrix border/frame :D
 
 ## DAY 04:
 Solved sum of two digits. (Did even better, It can return sum of more then two digits too) :D
+
+## DAY 05:
+Solved adjacent elements product
+Solved all longest strings :D
