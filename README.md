@@ -15,3 +15,6 @@ Solved sum of two digits. (Did even better, It can return sum of more then two d
 ## DAY 05:
 Solved adjacent elements product
 Solved all longest strings :D
+
+## DAY 06:
+Solved almost increasing sequence :D
