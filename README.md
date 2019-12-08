@@ -18,3 +18,6 @@ Solved all longest strings :D
 
 ## DAY 06:
 Solved almost increasing sequence :D
+
+## DAY 07:
+Solved alphabetic shift :D
